@@ -18,6 +18,8 @@
         "laravel/tinker": "^2.5",
         "livewire/livewire": "^2.10",
         "razorpay/razorpay": "^2.8",
+        "symfony/deprecation-contracts": "^3.2",
+        "symfony70/deprecation-contracts": "^3.1@dev",
         "twilio/sdk": "^6.32"
     },
     "require-dev": {
